@@ -2,3 +2,4 @@
 Allow: /
 
 Sitemap: https://www.lancastertowingservice.com/sitemap.xml
+Sitemap: https://www.lancastertowingservice.com/geositemap.xml
